@@ -1,0 +1,1 @@
+Python Chat Application with GUI, Encryption, and Sockets
